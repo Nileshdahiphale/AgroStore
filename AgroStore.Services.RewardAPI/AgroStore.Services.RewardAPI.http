@@ -1,0 +1,6 @@
+@AgroStore.Services.RewardAPI_HostAddress = http://localhost:5190
+
+GET {{AgroStore.Services.RewardAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

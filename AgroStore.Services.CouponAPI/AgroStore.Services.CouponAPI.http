@@ -1,0 +1,6 @@
+@AgroStore.Services.CouponAPI_HostAddress = http://localhost:5008
+
+GET {{AgroStore.Services.CouponAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
